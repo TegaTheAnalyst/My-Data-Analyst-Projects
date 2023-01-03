@@ -2,4 +2,6 @@
 
 # Project 1: COVID Data Exploration
 This was part of a personal project where a complete data exploration was carried out on the COVID dataset.
+# Project 2: Housing Data Cleaning
+This was part of a personal project where a complete data cleaning was carried out on a housing dataset.
 
