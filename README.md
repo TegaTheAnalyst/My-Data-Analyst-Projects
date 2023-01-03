@@ -3,9 +3,9 @@
 # [Project 1: COVID Data Exploration using SQL](https://tegatheanalyst.github.io/COVID-Data-Exploration-SQL/)
 ![covid-image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNW7z_G_mTtDAiI-d8jegqU4L2BaJma4m4cQ&usqp=CAU)
  
- This was part of a personal project where a complete data exploration was carried out on the COVID dataset using SQL.
+ This a project where a complete data exploration was carried out on a COVID dataset using SQL.
 
-# [Project 2: Data Vizualization using Tableau](https://tegatheanalyst.github.io/Tableau-Dashboard/)
+# [Project 2: Data Visualization using Tableau](https://tegatheanalyst.github.io/Tableau-Dashboard/)
 This is a live dashboard which was built from the data of the COVID project using Tableau.
 
 # [Project 3: Housing Data Cleaning using SQL](https://tegatheanalyst.github.io/Housing-Data-Cleaning-SQL/)
