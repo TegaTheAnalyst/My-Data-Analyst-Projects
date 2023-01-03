@@ -5,7 +5,7 @@
  
  This was part of a personal project where a complete data exploration was carried out on the COVID dataset using SQL.
 
-# Project 2: Data Vizualization using Tableau
+# [Project 2: Data Vizualization using Tableau](https://tegatheanalyst.github.io/Tableau-Dashboard/)
 This is a live dashboard which was built from the data of the COVID project using Tableau.
 
 # Project 3: Housing Data Cleaning using SQL
