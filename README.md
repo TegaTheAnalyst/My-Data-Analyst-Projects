@@ -8,7 +8,8 @@
 # [Project 2: Data Vizualization using Tableau](https://tegatheanalyst.github.io/Tableau-Dashboard/)
 This is a live dashboard which was built from the data of the COVID project using Tableau.
 
-# Project 3: Housing Data Cleaning using SQL
+# [Project 3: Housing Data Cleaning using SQL](https://tegatheanalyst.github.io/Housing-Data-Cleaning-SQL/)
+![Cleaning](https://media.premiumtimesng.com/wp-content/files/2018/08/Housing-estate.jpg)
 This is a project where a complete data cleaning was carried out on a housing dataset using SQL.
 
 # Project 4: Movie Correlation using Python
