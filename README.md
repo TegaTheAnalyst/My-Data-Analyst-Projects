@@ -1,6 +1,6 @@
 # Data Analyst Portfolio Project Repository
 
-# Project 1: COVID Data Exploration using SQL
+# [Project 1: COVID Data Exploration using SQL](https://tegatheanalyst.github.io/COVID-Data-Exploration-SQL/)
 This was part of a personal project where a complete data exploration was carried out on the COVID dataset using SQL.
 
 # Project 2: Data Vizualization using Tableau
