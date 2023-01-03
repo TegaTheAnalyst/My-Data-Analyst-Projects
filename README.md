@@ -12,7 +12,8 @@ This is a live dashboard which was built from the data of the COVID project usin
 ![Cleaning](https://media.premiumtimesng.com/wp-content/files/2018/08/Housing-estate.jpg)
 This is a project where a complete data cleaning was carried out on a housing dataset using SQL.
 
-# Project 4: Movie Correlation using Python
+# [Project 4: Movie Correlation using Python](https://tegatheanalyst.github.io/movie-correlation-python/)
+![movie](https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/summer-movies-1587392939.jpg)
 This is a project where a correlation was carried out on a movie dataset to determine the correlation of the movie companies, using:
  - Python pandas,
  - Numpy, 
