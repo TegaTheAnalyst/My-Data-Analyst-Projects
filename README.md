@@ -11,10 +11,10 @@ This is a project where a complete data cleaning was carried out on a housing da
 
 # Project 4: Movie Correlation using Python
 This is a project where a correlation was carried out on a movie dataset using:
- • Python pandas,
- • Numpy, 
- • Matplotlib, 
- • Seaborn 
+ - Python pandas,
+ - Numpy, 
+ * Matplotlib, 
+ + Seaborn 
 to determine the correlation of the movie companies.
 
 
