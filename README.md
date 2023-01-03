@@ -10,12 +10,12 @@ This is a live dashboard which was built from the data of the COVID project usin
 This is a project where a complete data cleaning was carried out on a housing dataset using SQL.
 
 # Project 4: Movie Correlation using Python
-This is a project where a correlation was carried out on a movie dataset using:
+This is a project where a correlation was carried out on a movie dataset to determine the correlation of the movie companies, using:
  - Python pandas,
  - Numpy, 
  * Matplotlib, 
  + Seaborn 
-to determine the correlation of the movie companies.
+
 
 
 
